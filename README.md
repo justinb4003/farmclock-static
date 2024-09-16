@@ -1,1 +1,1 @@
-# farmclock-static
+# FarmClock - A timeclock that grows with you
